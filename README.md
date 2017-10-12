@@ -6,8 +6,13 @@ Do note that I wasn't even enrolled in university yet when I wrote this program 
 Screenshots:
 
 Menu
+
 <img src="https://raw.githubusercontent.com/CharlieKolb/Space/master/spaceScreenshot3.png" alt="Menu" width="600" height="620">
+
 Ingame
+
 <img src="https://raw.githubusercontent.com/CharlieKolb/Space/master/spaceScreenshot2.png" alt="Menu" width="600" height="620">
+
 Boss
+
 <img src="https://raw.githubusercontent.com/CharlieKolb/Space/master/boss_headhunter.PNG" alt="Menu" width="600" height="620">
