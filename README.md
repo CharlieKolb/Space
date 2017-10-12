@@ -5,6 +5,7 @@ Do note that I wasn't even enrolled in university yet when I wrote this program 
 
 Screenshots:
 
-![Menu](https://raw.githubusercontent.com/CharlieKolb/Space/master/spaceScreenshot2.png)
-![Ingame](https://raw.githubusercontent.com/CharlieKolb/Space/master/spaceScreenshot3.png)
-![Bossfight](https://raw.githubusercontent.com/CharlieKolb/Space/master/boss_headhunter.PNG)
+
+![Menu](https://raw.githubusercontent.com/CharlieKolb/Space/master/spaceScreenshot3.png =600x360)
+![Ingame](https://raw.githubusercontent.com/CharlieKolb/Space/master/spaceScreenshot2.png =600x360)
+![Bossfight](https://raw.githubusercontent.com/CharlieKolb/Space/master/boss_headhunter.PNG =600x360)
